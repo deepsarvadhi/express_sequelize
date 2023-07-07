@@ -1,0 +1,19 @@
+error: 500 - null value in column "firstName" of relation "Employees" violates not-null constraint - /EmployeeBulk - POST - ::1
+error: 500 - null value in column "firstName" of relation "Employees" violates not-null constraint - /EmployeeBulk - POST - ::1
+error: 500 - null value in column "firstName" of relation "Employees" violates not-null constraint - /EmployeeBulk - POST - ::1
+error: 500 - null value in column "firstName" of relation "Employees" violates not-null constraint - /EmployeeBulk - POST - ::1
+error: 500 - null value in column "firstName" of relation "Employees" violates not-null constraint - /EmployeeBulk - POST - ::1
+error: 500 - null value in column "firstName" of relation "Employees" violates not-null constraint - /EmployeeBulk - POST - ::1
+error: 500 - null value in column "firstName" of relation "Employees" violates not-null constraint - /EmployeeBulk - POST - ::1
+error: 500 - null value in column "firstName" of relation "Employees" violates not-null constraint - /EmployeeBulk - POST - ::1
+error: 500 - Unexpected token , in JSON at position 139 - /EmployeeBulk - POST - ::1
+error: 500 - Validation error - /EmployeeBulk - POST - ::1
+error: 500 - Validation error - /EmployeeBulk - POST - ::1
+error: 500 - Validation error - /EmployeeBulk - POST - ::1
+error: 500 - Validation error - /EmployeeBulk - POST - ::1
+error: 500 - Validation error - /EmployeeBulk - POST - ::1
+error: 500 - Validation error - /EmployeeBulk - POST - ::1
+error: 500 - Validation error - /EmployeeBulk - POST - ::1
+error: 500 - Validation error - /EmployeeBulk - POST - ::1
+error: 500 - Validation error: Validation notEmpty on Name failed - /DesignationInsert - POST - ::1
+error: 500 - Validation error: Validation notEmpty on Name failed - /DesignationInsert - POST - ::1
